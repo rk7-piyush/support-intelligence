@@ -1,0 +1,19 @@
+{
+  "selected_model": "linear_svm",
+  "selection_metric": "validation_macro_f1",
+  "validation_results": [
+    {
+      "model": "logistic_regression",
+      "accuracy": 0.8445777111444278,
+      "macro_f1": 0.8418545641220874
+    },
+    {
+      "model": "linear_svm",
+      "accuracy": 0.88055972013993,
+      "macro_f1": 0.8816820256084961
+    }
+  ],
+  "training_rows": 10003,
+  "number_of_intents": 77,
+  "random_state": 42
+}

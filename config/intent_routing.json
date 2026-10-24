@@ -1,0 +1,51 @@
+{
+  "default_department": "General Support",
+  "manual_review_department": "Manual Review Queue",
+  "rules": [
+    {
+      "department": "Fees and Statements",
+      "keywords": [
+        "exchange_rate",
+        "extra_charge",
+        "cash_withdrawal"
+      ]
+    },
+    {
+      "department": "Account and Balance",
+      "keywords": [
+        "balance"
+      ]
+    },
+    {
+      "department": "Top-ups and Payments",
+      "keywords": [
+        "top_up",
+        "cash_top_up"
+      ]
+    },
+    {
+      "department": "Card Services",
+      "keywords": [
+        "card",
+        "cash_withdrawal",
+        "cash_withdraw"
+      ]
+    },
+    {
+      "department": "Account and Identity",
+      "keywords": [
+        "verify",
+        "identity",
+        "account"
+      ]
+    },
+    {
+      "department": "Transfers and Payments",
+      "keywords": [
+        "transfer",
+        "beneficiary",
+        "cash_withdrawal"
+      ]
+    }
+  ]
+}

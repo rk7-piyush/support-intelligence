@@ -1,0 +1,12 @@
+{
+  "selected_model": "calibrated_linear_svm",
+  "confidence_threshold": 0.55,
+  "threshold_selection_metric": "validation_accuracy_at_coverage",
+  "target_auto_route_accuracy": 0.95,
+  "target_met_on_validation": true,
+  "validation_coverage": 0.8185907046476761,
+  "validation_auto_route_accuracy": 0.9548229548229549,
+  "validation_examples": 2001,
+  "calibration_method": "sigmoid",
+  "calibration_cv_folds": 3
+}

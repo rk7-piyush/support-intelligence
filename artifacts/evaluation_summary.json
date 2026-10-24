@@ -1,0 +1,8 @@
+{
+  "model": "Linear SVM or selected pipeline",
+  "test_examples": 3080,
+  "number_of_intents": 77,
+  "accuracy": 0.8896103896103896,
+  "macro_f1": 0.8899375073592907,
+  "weighted_f1": 0.8899375073592906
+}
